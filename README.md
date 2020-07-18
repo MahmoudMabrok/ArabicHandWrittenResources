@@ -18,3 +18,13 @@ activation, predicts the probability for 10 individual digit
 classes (0-9). Our proposed MLP method achieves identical
 accuracy score compared to the method of Das et al. [1].
 The proposed methods are described in detail, and the performances are compared.
+
+
+# [Arabic-Handwritten-Images-Recognition](https://github.com/AmrHendy/Arabic-Handwritten-Images-Recognition) 
+- In this project we built a model which can classify a new image to an arabic letter or digit and get accuracy of 98.86% when testing on more than 13000 different images.
+
+# [Tess-two_example] (https://github.com/ashomokdev/Tess-two_example)
+- This Android project uses Tesseract for performing OCR.
+- data file --> [here](https://github.com/tesseract-ocr/tessdata/blob/3.04.00/ara.traineddata)
+- another fork for engin , [link](https://github.com/alexcohn/tess-two)
+- [ base engin](https://github.com/tesseract-ocr/tesseract)
