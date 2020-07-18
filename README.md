@@ -28,3 +28,5 @@ The proposed methods are described in detail, and the performances are compared.
 - data file --> [here](https://github.com/tesseract-ocr/tessdata/blob/3.04.00/ara.traineddata)
 - another fork for engin , [link](https://github.com/alexcohn/tess-two)
 - [ base engin](https://github.com/tesseract-ocr/tesseract)
+
+# [Arabic-OCR](https://github.com/HusseinYoussef/Arabic-OCR)
