@@ -23,7 +23,7 @@ The proposed methods are described in detail, and the performances are compared.
 # [Arabic-Handwritten-Images-Recognition](https://github.com/AmrHendy/Arabic-Handwritten-Images-Recognition) 
 - In this project we built a model which can classify a new image to an arabic letter or digit and get accuracy of 98.86% when testing on more than 13000 different images.
 
-# [Tess-two_example] (https://github.com/ashomokdev/Tess-two_example)
+# [Tess-two_example](https://github.com/ashomokdev/Tess-two_example)
 - This Android project uses Tesseract for performing OCR.
 - data file --> [here](https://github.com/tesseract-ocr/tessdata/blob/3.04.00/ara.traineddata)
 - another fork for engin , [link](https://github.com/alexcohn/tess-two)
@@ -38,3 +38,4 @@ The proposed methods are described in detail, and the performances are compared.
 - [Object detections](https://www.youtube.com/watch?v=Rgpfk6eYxJA)
 - [How To Read Images in Java Using OCR- Tesseract](https://www.youtube.com/watch?v=5DqW9KP-aQo)
 - [train data or AEN](https://github.com/ahmed-tea/tessdata_Arabic_Numbers) (tried and it is fine ^_^ ).
+- [build OCR](https://medium.com/saarthi-ai/how-to-build-your-own-ocr-a5bb91b622ba)
