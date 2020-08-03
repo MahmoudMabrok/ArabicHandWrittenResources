@@ -31,7 +31,7 @@ The proposed methods are described in detail, and the performances are compared.
 
 # [Arabic-OCR](https://github.com/HusseinYoussef/Arabic-OCR)
 
---------------------------------- 
-[Object detections] (https://www.youtube.com/watch?v=Rgpfk6eYxJA)
-
-[How To Read Images in Java Using OCR- Tesseract](https://www.youtube.com/watch?v=5DqW9KP-aQo)
+# Misc
+- [Object detections](https://www.youtube.com/watch?v=Rgpfk6eYxJA)
+- [How To Read Images in Java Using OCR- Tesseract](https://www.youtube.com/watch?v=5DqW9KP-aQo)
+- [train data or AEN](https://github.com/ahmed-tea/tessdata_Arabic_Numbers) (tried and it is fine ^_^ ).
