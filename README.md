@@ -30,3 +30,8 @@ The proposed methods are described in detail, and the performances are compared.
 - [ base engin](https://github.com/tesseract-ocr/tesseract)
 
 # [Arabic-OCR](https://github.com/HusseinYoussef/Arabic-OCR)
+
+--------------------------------- 
+[Object detections] (https://www.youtube.com/watch?v=Rgpfk6eYxJA)
+
+[How To Read Images in Java Using OCR- Tesseract](https://www.youtube.com/watch?v=5DqW9KP-aQo)
