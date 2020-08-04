@@ -43,3 +43,6 @@ The proposed methods are described in detail, and the performances are compared.
 # AMR 
 - [Convolutional-Neural-Networks-for-Automatic-Meter-Reading](https://amds123.github.io/2019/02/25/Convolutional-Neural-Networks-for-Automatic-Meter-Reading)
 - [datasets](https://web.inf.ufpr.br/vri/databases/ufpr-amr/license-agreement/)
+
+# Datasets 
+- [](https://github.com/Shreeshrii/tesstrain-arabic-GS)
