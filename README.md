@@ -45,4 +45,7 @@ The proposed methods are described in detail, and the performances are compared.
 - [datasets](https://web.inf.ufpr.br/vri/databases/ufpr-amr/license-agreement/)
 
 # Datasets 
-- [](https://github.com/Shreeshrii/tesstrain-arabic-GS)
+- [tesstrain-arabic-GS](https://github.com/Shreeshrii/tesstrain-arabic-GS)
+
+# Engins 
+- [kraken](https://github.com/mittagessen/kraken)
