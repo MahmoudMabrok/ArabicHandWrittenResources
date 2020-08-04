@@ -39,3 +39,7 @@ The proposed methods are described in detail, and the performances are compared.
 - [How To Read Images in Java Using OCR- Tesseract](https://www.youtube.com/watch?v=5DqW9KP-aQo)
 - [train data or AEN](https://github.com/ahmed-tea/tessdata_Arabic_Numbers) (tried and it is fine ^_^ ).
 - [build OCR](https://medium.com/saarthi-ai/how-to-build-your-own-ocr-a5bb91b622ba)
+
+# AMR 
+- [Convolutional-Neural-Networks-for-Automatic-Meter-Reading](https://amds123.github.io/2019/02/25/Convolutional-Neural-Networks-for-Automatic-Meter-Reading)
+- [datasets](https://web.inf.ufpr.br/vri/databases/ufpr-amr/license-agreement/)
