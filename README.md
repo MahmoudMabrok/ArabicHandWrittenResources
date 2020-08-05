@@ -43,6 +43,7 @@ The proposed methods are described in detail, and the performances are compared.
 # AMR 
 - [Convolutional-Neural-Networks-for-Automatic-Meter-Reading](https://amds123.github.io/2019/02/25/Convolutional-Neural-Networks-for-Automatic-Meter-Reading)
 - [datasets](https://web.inf.ufpr.br/vri/databases/ufpr-amr/license-agreement/)
+- [Knot_Reading_Scene_Text_without_Segmentation_Application_to_Utility_Meters](https://www.researchgate.net/publication/325551847_Cutting_Sayre%27s_Knot_Reading_Scene_Text_without_Segmentation_Application_to_Utility_Meters)
 
 # Datasets 
 - [tesstrain-arabic-GS](https://github.com/Shreeshrii/tesstrain-arabic-GS)
