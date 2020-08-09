@@ -50,3 +50,6 @@ The proposed methods are described in detail, and the performances are compared.
 
 # Engins 
 - [kraken](https://github.com/mittagessen/kraken)
+
+# [sub-meter-reading-using-deep-learning](https://nanonets.com/blog/sub-meter-reading-using-deep-learning/)
+
