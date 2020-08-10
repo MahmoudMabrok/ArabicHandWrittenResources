@@ -47,10 +47,14 @@ The proposed methods are described in detail, and the performances are compared.
 
 # Datasets 
 - [tesstrain-arabic-GS](https://github.com/Shreeshrii/tesstrain-arabic-GS)
+- [yandextoloka-water-meters-dataset](https://www.kaggle.com/tapakah68/yandextoloka-water-meters-dataset)
 
 # Engins 
 - [kraken](https://github.com/mittagessen/kraken)
 
 # [sub-meter-reading-using-deep-learning](https://nanonets.com/blog/sub-meter-reading-using-deep-learning/)
 
-#[water meter](https://habr.com/ru/company/ods/blog/469633/)
+# [water meter](https://habr.com/ru/company/ods/blog/469633/)
+
+# Products 
+- [ocr-meter-reading](https://anyline.com/products/ocr-meter-reading/)
