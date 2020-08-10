@@ -53,3 +53,4 @@ The proposed methods are described in detail, and the performances are compared.
 
 # [sub-meter-reading-using-deep-learning](https://nanonets.com/blog/sub-meter-reading-using-deep-learning/)
 
+#[water meter](https://habr.com/ru/company/ods/blog/469633/)
