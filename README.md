@@ -39,6 +39,8 @@ The proposed methods are described in detail, and the performances are compared.
 - [How To Read Images in Java Using OCR- Tesseract](https://www.youtube.com/watch?v=5DqW9KP-aQo)
 - [train data or AEN](https://github.com/ahmed-tea/tessdata_Arabic_Numbers) (tried and it is fine ^_^ ).
 - [build OCR](https://medium.com/saarthi-ai/how-to-build-your-own-ocr-a5bb91b622ba)
+- [YOLO Object Detection (TensorFlow tutorial)](https://www.youtube.com/watch?v=4eIBisqx9_g)
+- [Making your own Haar Cascade Intro - OpenCV with Python for Image and Video Analysis 17](https://www.youtube.com/watch?v=jG3bu0tjFbk&list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq&index=17)
 
 # AMR 
 - [Convolutional-Neural-Networks-for-Automatic-Meter-Reading](https://amds123.github.io/2019/02/25/Convolutional-Neural-Networks-for-Automatic-Meter-Reading)
