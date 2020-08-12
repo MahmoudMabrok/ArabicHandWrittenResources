@@ -42,6 +42,10 @@ The proposed methods are described in detail, and the performances are compared.
 - [YOLO Object Detection (TensorFlow tutorial)](https://www.youtube.com/watch?v=4eIBisqx9_g)
 - [Making your own Haar Cascade Intro - OpenCV with Python for Image and Video Analysis 17](https://www.youtube.com/watch?v=jG3bu0tjFbk&list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq&index=17)
 - [Train YOLO to detect a custom object (online with free GPU)](https://www.youtube.com/watch?v=_FNfRtXEbr4)
+- [AICamera](https://github.com/facebookarchive/AICamera)
+- [SSD Demo on Android and iOS](https://github.com/PaddlePaddle/Mobile/issues/25)
+
+
 # AMR 
 - [Convolutional-Neural-Networks-for-Automatic-Meter-Reading](https://amds123.github.io/2019/02/25/Convolutional-Neural-Networks-for-Automatic-Meter-Reading)
 - [datasets](https://web.inf.ufpr.br/vri/databases/ufpr-amr/license-agreement/)
