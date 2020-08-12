@@ -44,6 +44,7 @@ The proposed methods are described in detail, and the performances are compared.
 - [Train YOLO to detect a custom object (online with free GPU)](https://www.youtube.com/watch?v=_FNfRtXEbr4)
 - [AICamera](https://github.com/facebookarchive/AICamera)
 - [SSD Demo on Android and iOS](https://github.com/PaddlePaddle/Mobile/issues/25)
+- [A Keras port of Single Shot MultiBox Detector](https://github.com/pierluigiferrari/ssd_keras#how-to-use-it)
 
 
 # AMR 
