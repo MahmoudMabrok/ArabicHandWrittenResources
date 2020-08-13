@@ -65,3 +65,15 @@ The proposed methods are described in detail, and the performances are compared.
 
 # Products 
 - [ocr-meter-reading](https://anyline.com/products/ocr-meter-reading/)
+
+# Helper scripts 
+- 
+```
+text2image --text test.gt.txt --outputbase /home/user/output --fonts_dir /usr/share/fonts/truetype/msttcorefonts/ --font 'Arial' --degrade_image false --rotate_image --exposure 2 --resolution 300
+```
+
+```
+sudo cp AmiriGS5Layer_fast.traineddata  /usr/share/tesseract-ocr/4.00/tessdata
+
+
+```
