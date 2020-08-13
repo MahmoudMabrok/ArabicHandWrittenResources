@@ -45,6 +45,7 @@ The proposed methods are described in detail, and the performances are compared.
 - [AICamera](https://github.com/facebookarchive/AICamera)
 - [SSD Demo on Android and iOS](https://github.com/PaddlePaddle/Mobile/issues/25)
 - [A Keras port of Single Shot MultiBox Detector](https://github.com/pierluigiferrari/ssd_keras#how-to-use-it)
+- [text2image](http://manpages.ubuntu.com/manpages/bionic/man1/text2image.1.html)
 
 
 # AMR 
