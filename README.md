@@ -83,3 +83,9 @@ sudo cp AmiriGS5Layer_fast.traineddata  /usr/share/tesseract-ocr/4.00/tessdata
 # used to add Amiri font to user to be used later by text2image
 sudo cp -r Amiri /usr/share/fonts/truetype/Amiri
 ```
+# etc 
+- [How to train Tesseract 4](https://medium.com/@guiem/how-to-train-tesseract-4-ebe5881ff3b7)
+- [OpenCV practice: OCR for the electricity meter](https://www.mkompf.com/cplus/emeocv.html)
+- [awesome-ocr](https://github.com/kba/awesome-ocr)
+- [binarizewolfjolion](https://github.com/0x333333/binarizewolfjolion)
+- [MathOCR](https://github.com/chungkwong/MathOCR)
